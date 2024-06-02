@@ -1,4 +1,4 @@
-<img src="assets/images/umbrella.jpg" width="100%" alt="Weather Image two People with a umbrella" >
+<img src="assets/images/toadwithumbrella.jpg" width="100%" alt="Weather Image two People with a umbrella" >
 
 
 # Weather App 🌈 🌤 🌪 🌧   
