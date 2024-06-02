@@ -2,7 +2,7 @@
 
 
 # Weather App 🌈 🌤 🌪 🌧   
-Weather App is a **Mobile application**  developped to run both **Android** and **IOS** plateform. Such apps is helpful, we need it to schedule our everyday by the power of knowing what will possibly happen locally or where we're going and better plan our works or stay. Can provide data to forecast weather globaly, it can become your daily hand-gadget tool used the most.
+Weather App is a **Mobile application**  developped to run both **Android** and **IOS** plateform. Such apps are helpful, we need to schedule our everyday by the power of knowing what will possibly happen locally or where we're going and better plan our work or stay. Can provide data to forecast weather globaly, it can become your daily hand-gadget tool used the most.
 
 Build on **react native** with **Expo framework**. 
 
@@ -10,7 +10,7 @@ Build on **react native** with **Expo framework**.
 
 - [react-native-progress](https://www.npmjs.com/package/react-native-progress): Loading ui components
 - [async-storage](https://react-native-async-storage.github.io/async-storage/docs/install/): async-storage
-- [NativeWind](https://www.nativewind.dev/quick-starts/expo): for using Tailwinds CSS in react native
+- [NativeWind](https://www.nativewind.dev/quick-starts/expo): for using Tailwind CSS in react native
 - [Heroicons](https://www.npmjs.com/package/react-native-heroicons) npm 👈 and also doc 👉 (https://heroicons.com/): nice icons
 - [axios](https://www.npmjs.com/package/react-native-axios): Deal with simplified way to make HTTP requests and handle responses
 
