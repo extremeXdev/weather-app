@@ -1,7 +1,9 @@
-# 🌈🌧🌤🌪
+<img src="assets/images/umbrella.jpg" width="100%" alt="Weather Image two People with a umbrella" >
 
-# Weather App 👋
-Weather App is a **Mobile application**  developped to run both **Android** and **IOS** plateform. Such apps is helpful, we need it to schedule our everyday by the power of knowing what will possibly happen locally or where we're going and better plan our works or stay. Can provide data to forecasting weather globaly, it can become your daily hand-gadget tool used the most.
+
+
+# Weather App 🌈🌧🌤🌪    
+Weather App is a **Mobile application**  developped to run both **Android** and **IOS** plateform. Such apps is helpful, we need it to schedule our everyday by the power of knowing what will possibly happen locally or where we're going and better plan our works or stay. Can provide data to forecast weather globaly, it can become your daily hand-gadget tool used the most.
 
 Build on **react native** with **Expo framework**. 
 
