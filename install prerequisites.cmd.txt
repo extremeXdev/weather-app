@@ -8,24 +8,30 @@ echo Installing Prerequisites...
 
 npm install nativewind
 npm install --save-dev tailwindcss@3.3.2
+@REM or: npm install nativewind && npm install -D tailwindcss@3.3.2  // We’re locking on this specific version of Tailwind CSS to prevent a bug such: https://github.com/nativewind/nativewind/issues/498
 
-npm i react-native-heroicons react-native-svg
-npm i react-native-heroicons
 
 npm i react-native-progress
-npm install react-native-svg
+npm install react-native-svg    @REM react-native-svg@15.2.0 required (above not!)
+
+npm i react-native-heroicons react-native-svg @REM add both libraries 
 
 npm i @react-native-async-storage/async-storage
 
 npm install axios
+npm install lodash
 
 echo Reseting Expo Template...
 npm run reset-project
 
+@REM some useful init for projects
+
+echo create and init tailwind config file
+npx tailwindcss init
+
 
 echo Launching expo app...
-npx expo start
-@REM delete too babel cash: npx expo start -c
+npx expo start  	   @REM or delete too babel cash: npx expo start -c
 
 
 
