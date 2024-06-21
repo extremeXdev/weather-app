@@ -34,11 +34,12 @@ npm i react-native-heroicons react-native-svg
 npm i react-native-heroicons
 
 npm i react-native-progress
-npm install react-native-svg
+npm install react-native-svg    @REM react-native-svg@15.2.0 required (+not)
 
 npm i @react-native-async-storage/async-storage
 
 npm install axios
+npm install lodash
 
 echo Reseting Expo Template...
 npm run reset-project
